@@ -75,7 +75,7 @@ Métodos:
 - `__eq__` compara por `id`.
 
 **Teoría.** La duración se guarda en segundos enteros y `duracion_mmss` la calcula. Explicar en dos oraciones por qué conviene guardarla así y no en un string `"5:16"`.
-
+.
 ---
 
 ## Ejercicio 2 — Biblioteca (8 pts)
